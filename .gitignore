@@ -1,0 +1,11 @@
+# Logs & System
+*.log
+.DS_Store
+Thumbs.db
+
+# Secrets & Keys (Defense in depth)
+*.jks
+*.keystore
+*.pem
+*.key
+*.env*
