@@ -50,12 +50,12 @@
 
 ## 🚀 Downloads
 
-Die aktuellen Versionen findest du immer im Bereich **[Releases](https://github.com/echo3x3e/PulseMusic/releases)**:
+Die aktuellen Versionen findest du immer im Bereich **[Releases](https://github.com/echo3x3e/PulseMusic/releases/latest)**:
 
-* **Android:** `PulseMusic-release.apk` (Android 8.0+)
-* **Windows:** `PulseMusic-Setup-x64.exe` (Windows 10/11 64-bit)
-* **Linux:** `PulseMusic.AppImage` / Tarball
-* **macOS:** `PulseMusic.dmg` *(in Vorbereitung)*
+* **Android:** `PulseMusic-1.6.6.apk` (Android 8.0+)
+* **Windows:** `PulseMusic-Setup-1.6.6-x64.exe` (Windows 10/11 64-bit Installer)
+* **Linux:** Standalone AppImage *(in Vorbereitung)*
+* **macOS:** Standalone Disk Image (`.dmg`) *(in Vorbereitung)*
 
 ---
 
