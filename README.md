@@ -37,19 +37,33 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot Gallery (Every Feature)
 
-| 🏠 Home & Discover | 🎧 Now Playing & 64-Band FFT |
+| 🏠 Home & Curated Tracks | 🎧 Now Playing & 64-Band FFT Spectrum |
 |:---:|:---:|
-| <img src="screenshots/home_1080p.png" width="95%" /> | <img src="screenshots/now_playing_1080p.png" width="95%" /> |
+| <img src="screenshots/home_1080p.png" width="95%" alt="Home" /> | <img src="screenshots/now_playing_1080p.png" width="95%" alt="Now Playing" /> |
 
-| 🎤 Synced Lyrics (LRC) | 🎛️ DJ Stem Deck & Vocal Remover |
+| 🎚️ Studio Equalizer & DSP Engine | 🎛️ DJ Stem Deck & Multitrack Faders |
 |:---:|:---:|
-| <img src="screenshots/lyrics_1080p.png" width="95%" /> | <img src="screenshots/dj_stem_deck_1080p.png" width="95%" /> |
+| <img src="screenshots/dsp_studio_1080p.png" width="95%" alt="Studio DSP" /> | <img src="screenshots/dj_stem_deck_1080p.png" width="95%" alt="DJ Stem Deck" /> |
 
-| 💿 Album & Hi-Res View | 📡 Live Node Radar & Diagnostics |
+| 🎤 Synchronized Lyrics (LRC) | 💿 Hi-Res Album & FLAC Tracklist |
 |:---:|:---:|
-| <img src="screenshots/album_1080p.png" width="95%" /> | <img src="screenshots/diagnostics_1080p.png" width="95%" /> |
+| <img src="screenshots/lyrics_1080p.png" width="95%" alt="Lyrics" /> | <img src="screenshots/album_1080p.png" width="95%" alt="Album View" /> |
+
+| 👤 Artist Discography & Top Tracks | 📜 Playlist Manager & Play Queue |
+|:---:|:---:|
+| <img src="screenshots/artist_1080p.png" width="95%" alt="Artist Profile" /> | <img src="screenshots/playlist_1080p.png" width="95%" alt="Playlist Queue" /> |
+
+| 📻 Harmonic Flow Radio | 🔍 Universal Multi-Source Search |
+|:---:|:---:|
+| <img src="screenshots/radio_1080p.png" width="95%" alt="Radio" /> | <img src="screenshots/search_1080p.png" width="95%" alt="Search" /> |
+
+| ✨ Curated Discover Feed | 📡 Tor P2P Node Radar & Diagnostics |
+|:---:|:---:|
+| <img src="screenshots/discover_1080p.png" width="95%" alt="Discover" /> | <img src="screenshots/diagnostics_1080p.png" width="95%" alt="Diagnostics" /> |
+
+> 🎬 **High-Definition Video Showcase:** Watch or download the full 1080p60 showcase video [pulse_showcase.mp4](screenshots/pulse_showcase.mp4).
 
 ---
 
