@@ -1,7 +1,8 @@
 # 🎵 PulseMusic
 
 <p align="center">
-  <img src="screenshots/home_1080p.png" width="85%" alt="PulseMusic Home" />
+  <img src="screenshots/pulse_showcase.gif" width="90%" alt="PulseMusic Live Animated Showcase" /><br>
+  <em>PulseMusic v1.6.6 Live UI & 64-Band FFT Spektrumanalyse in Aktion</em>
 </p>
 
 <p align="center">
@@ -38,11 +39,15 @@
 
 ## 📸 Screenshots
 
-| Now Playing & Lyrics | DJ Stem Deck |
+| 🏠 Home / Entdecken | 🎧 Now Playing & 64-Band FFT |
+|:---:|:---:|
+| <img src="screenshots/home_1080p.png" width="95%" /> | <img src="screenshots/now_playing_1080p.png" width="95%" /> |
+
+| 🎤 Songtexte (Sync LRC) | 🎛️ DJ Stem Deck & Vocal Remover |
 |:---:|:---:|
 | <img src="screenshots/lyrics_1080p.png" width="95%" /> | <img src="screenshots/dj_stem_deck_1080p.png" width="95%" /> |
 
-| Album Ansicht | Live Node Radar / Diagnostics |
+| 💿 Album & Hi-Res Übersicht | 📡 Live Node Radar & Diagnostics |
 |:---:|:---:|
 | <img src="screenshots/album_1080p.png" width="95%" /> | <img src="screenshots/diagnostics_1080p.png" width="95%" /> |
 
